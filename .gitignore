@@ -1,15 +1,15 @@
-# Laravel
-/vendor
-/.env
-/node_modules
-/public/storage
-/storage/*.key
-.env.*.php
+# Laravel (backend)
+backend/vendor
+backend/.env
+backend/node_modules
+backend/public/storage
+backend/storage/*.key
+backend/.env.*.php
 
-# React
+# React (frontend)
 frontend/node_modules
 frontend/build
 
-# Autres
+# Global
 *.log
 .DS_Store
