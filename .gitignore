@@ -1,0 +1,15 @@
+# Laravel
+/vendor
+/.env
+/node_modules
+/public/storage
+/storage/*.key
+.env.*.php
+
+# React
+frontend/node_modules
+frontend/build
+
+# Autres
+*.log
+.DS_Store
